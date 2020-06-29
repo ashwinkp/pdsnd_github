@@ -1,15 +1,25 @@
 ### Date created
-Include the date you created this project and README file.
+Date: 6/29/20
 
 ### Project Title
-Replace the Project Title
+# Explore US Bikeshare Data # 
 
 ### Description
-Describe what your project is about and what it does
+
+This project uses Python to understand U.S. bikeshare data.  
+Calculate statistics and build an interactive environment where a user chooses the data and filter for a dataset to analyze.
 
 ### Files used
-Include the files used
+The files used
+* bikeshare.py
+* chicago.csv
+* new_york.csv
+* washington.csv
+
+**NOTE:** The csv files are not included here due to their size and can be downloaded from under the resources tab for project module on udacity.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+References: 
+[Named Link](https://pandas.pydata.org/docs/user_guide/index.html "Pandas Documentation")
+[Named Link](https://numpy.org/doc/stable/ "NumPy Documentation")
 
