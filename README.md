@@ -1,8 +1,6 @@
-### Date created
-Date: 6/29/20
+### Date created :6/29/20
 
-### Project Title
-# Explore US Bikeshare Data # 
+### Project Title:  Explore US Bikeshare Data 
 
 ### Description
 
