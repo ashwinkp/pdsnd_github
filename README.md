@@ -20,6 +20,6 @@ The files used
 
 ### Credits
 References: 
-[Named Link](https://pandas.pydata.org/docs/user_guide/index.html "Pandas Documentation")
-[Named Link](https://numpy.org/doc/stable/ "NumPy Documentation")
+1. [Pandas Documentation](https://pandas.pydata.org/docs/user_guide/index.html)
+2. [NumPy Documentation](https://numpy.org/doc/stable/)
 
