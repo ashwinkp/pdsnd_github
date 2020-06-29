@@ -2,6 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
+#Mapping of city name and data file
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }
