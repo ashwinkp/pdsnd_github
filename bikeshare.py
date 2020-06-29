@@ -238,7 +238,9 @@ def display_raw(df):
 
 def main():
     while True:
+        #Get the filters from the user
         city, month, day = get_filters()
+        #Load the data based on the user selection
         df = load_data(city, month, day)
 
         time_stats(df)
